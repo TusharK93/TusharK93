@@ -39,7 +39,7 @@ Applied Data Scientist with **1+ year of professional experience** in data analy
 
 | 🔭 What I do | 🌱 Currently learning | 💬 Ask me about |
 |---|---|---|
-| Analytics, forecasting, pricing optimization, ML deployment, LLM applications | Hive, Airflow, MLflow, Databricks (basics), LLM observability with LangSmith, Vue | SQL, Python, A/B Testing, Time Series, RAG, LangGraph, MCP, Agentic AI |
+| Analytics, forecasting, pricing optimization, ML deployment, LLM applications | Hive, Airflow, MLflow, Databricks , LLM observability with LangSmith, Vue | SQL, Python, A/B Testing, Time Series, RAG, LangGraph, MCP, Agentic AI |
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 

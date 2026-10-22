@@ -50,7 +50,7 @@ Applied Data Scientist with **1+ year of professional experience** in data analy
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,redis&theme=dark" />
 </p>
-<sub><b>Python · SQL (MySQL, PostgreSQL) · Redis · Java (basics) · Data Warehouse (basics) · Data Structures & Algorithms</b></sub>
+<sub><b>Python · SQL (MySQL, PostgreSQL) · Redis · Java (basics) · Data Warehouse (basics) · Data Structures & Algorithms </b></sub> 
 
 ### 📊 Data Analytics & Business Intelligence
 <p>

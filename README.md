@@ -1,164 +1,178 @@
-<h1 align="center">Hi 👋, I'm Tushar Kumawat</h1>
-<h3 align="center">Applied Data Scientist | Data Analyst | AI/ML Engineer</h3>
-<p align="center"><i>Forecasting • Pricing Analytics • Machine Learning • Deep Learning • Generative AI • Agentic AI</i></p>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Tushar%20Kumawat&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Applied%20Data%20Scientist%20%7C%20Data%20Analyst%20%7C%20AI%2FML%20Engineer&descAlignY=60&descSize=20" alt="banner" />
+</p>
+
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://github.com/TusharK93">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+Data+Analyst+%7C+AI%2FML+Engineer;Machine+Learning+%26+Deep+Learning;Generative+AI%2C+RAG%2C+LangGraph+%26+MCP;Forecasting%2C+Pricing+%26+A%2FB+Testing;Turning+data+into+business+decisions" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TusharK93&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Location-Gurugram%2C%20India-blue?style=flat" alt="location" />
-  <img src="https://img.shields.io/badge/Open%20to-Data%20Analyst%20%7C%20Data%20Scientist%20roles-brightgreen?style=flat" alt="open to work" />
+  <img src="https://komarev.com/ghpvc/?username=TusharK93&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <a href="https://www.linkedin.com/in/tushar-kumawat-ds"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:tukumawat73@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://portfolio-project-wgoy.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://medium.com/@tukumawat73"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I am an Applied Data Scientist with **1+ year of professional experience** in data analytics and **3+ years of hands-on project experience** in machine learning, deep learning, NLP and generative AI.
+<img align="right" width="220" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="hi" />
 
-- 📈 Increased sales by **5%** at **The WoodenPath** (wholesale shop) through pricing, revenue and A/B test analysis
-- 📊 Boosted course sales by **2%** and improved operational efficiency by **15%** at **NullClass Pvt. Ltd.** using custom data-tracking and Tableau dashboards
-- 🤖 Built and deployed ML, deep learning and LLM-based agentic applications as **REST APIs** (FastAPI, Flask)
-- 🎓 Master of Computer Applications (AI, ML, Data Science), Manipal University Jaipur
+Hi, I'm **Tushar** from Gurugram/Jaipur, India. I'm an **Applied Data Scientist** with **1+ year of professional experience** in data analytics and **3+ years of hands-on project experience** in machine learning, deep learning, NLP and generative AI.
+
+- 📈 Increased sales by **5%** at **The WoodenPath** through pricing and A/B test analysis
+- 🎓 Boosted course sales by **2%** and operational efficiency by **15%** at **NullClass** using Tableau dashboards
+- 🤖 Built and deployed **agentic AI** apps with **RAG, MCP, tool calling, LangChain and LangGraph**
+- 🚀 Shipped ML/DL models as **REST APIs** (FastAPI, Flask) with up to **98% accuracy** and **97% F1-score**
+- 🎯 Pursuing an **MCA (AI, ML, Data Science)** at Manipal University Jaipur
+
+> 💬 Ask me about **Python, SQL, Machine Learning, Time Series Forecasting, A/B Testing, RAG, LangGraph, MCP and Agentic AI**
+
+<br clear="right"/>
+
+---
+
+## 🧰 Tech Stack
+
+### Languages, Databases & Data
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,mysql,postgres,redis,pandas,numpy,spark,kafka&perline=8" alt="data stack" />
+</p>
+
+### Machine Learning & Deep Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=8" alt="ml stack" />
+  <br/>
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Prophet-0668E1?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statsmodels-4051B5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+</p>
+
+### Generative AI & Agentic AI
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20Evals-Guardrails-EA4335?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector%20DBs-Hybrid%20Search-2E7D32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-F57C00?style=for-the-badge" />
+</p>
+
+### Analytics, BI & Visualization
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+</p>
+
+### Deployment, Cloud & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,django,docker,aws,git,github,vscode&perline=8" alt="deploy stack" />
+  <br/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+</p>
+
+### 🌱 Currently Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangSmith-LLM%20Observability-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Tech | Result | Links |
-|---|---|---|---|---|
-| **🤖 Agentic AI Travel Planner & Flight Booker** | Multi-day trip planner that stays within budget, with 5+ agents, MCP-connected travel APIs, PostgreSQL memory and human-in-the-loop approval | LangGraph, LangChain, Groq LLMs, MCP, PostgreSQL, Streamlit | 90% task success, 92% correct tool selection, 85% plans within budget, 14 s average response (100 test requests) | [Live Demo](https://agentic-ai-project-flight-booker-2-8v2r.onrender.com/) |
-| **🚗 APS Fault Detection** | Predictive maintenance pipeline that detects Air Pressure System failures in heavy-duty vehicles | Python, Logistic Regression, Random Forest, XGBoost, FastAPI, Docker | **97% F1-score, 98% accuracy** on 60,000+ records (170 features) | [Repo](https://github.com/TusharK93/-Air-Pressure-System-APS-Project-Using-Machine-Learning) • [Live Demo](https://air-pressure-system-aps-project-using-0efs.onrender.com/) |
-| **🛑 Hate Speech Detection** | NLP classifier that labels text as Hate or Non-Hate to support scalable content moderation | LSTM, NLP, Embeddings, API deployment | **95% accuracy, 93% F1-score** | [Repo](https://github.com/TusharK93/Hate-Speech-Classification-Project---NLP-Natural-Language-Processing-) • [Live Demo](https://hate-speech-classification-project-nlp-24qa.onrender.com/) |
-| **💰 Dynamic Pricing Optimizer** | Reinforcement learning agent that learns pricing strategies under changing demand | Python, Gymnasium, Stable-Baselines3 (DQN), FastAPI | **+2% revenue, +3% profit** over fixed-price baseline (simulated) | [All Repos](https://github.com/TusharK93?tab=repositories) |
-| **📉 Sales Forecasting System** | Demand forecasting app for inventory and staff planning | Prophet, ARIMA, Flask, Time Series | **8.5% MAPE** on unseen data (10,000+ records) | [Repo](https://github.com/TusharK93/Sales-Forecasting-System-using-Flask-and-Prophet---Time-Series-Project) |
-| **🗃️ Music Store SQL Analysis** | Advanced SQL analysis of customer behavior and sales trends | SQL | Business insights from joins, CTEs and window functions | [Repo](https://github.com/TusharK93/-Music-Store-Data-Analysis-project-using-SQL) |
-| **🧑‍💼 AI-Powered Recruitment Agent** | Resume screening and candidate-job matching assistant | LangChain, LLMs, RAG, Streamlit | End-to-end GenAI application | [Repo](https://github.com/TusharK93/AI-Powered-Recruitment-Agent---Generative-AI-Project) |
-| **🩺 Kidney Disease Classification** | Medical image classification with transfer learning | CNN, TensorFlow, Flask | Computer vision pipeline with MLOps practices | [Repo](https://github.com/TusharK93/Kidney-Disease-Classification-Project---Deep-Learning) |
+| Project | What it does | Results | Links |
+|---|---|---|---|
+| 🤖 **Agentic AI Travel Planner & Flight Booker** | Multi-agent trip planner using LangGraph, Groq LLMs, MCP-connected travel APIs, PostgreSQL memory and human-in-the-loop approval | 90% task success, 92% correct tool selection, 85% of plans within budget, 14 s average response (100 test requests) | [Live Demo](https://agentic-ai-project-flight-booker-2-8v2r.onrender.com/) |
+| 🚗 **APS Fault Detection** | Production-oriented ML pipeline on 60,000+ records (170 features) for predictive maintenance, with FastAPI deployment | **97% F1-score, 98% accuracy** | [Live Demo](https://air-pressure-system-aps-project-using-0efs.onrender.com/) · [Code](https://github.com/TusharK93/-Air-Pressure-System-APS-Project-Using-Machine-Learning) |
+| 💬 **Hate Speech Detection** | LSTM-based NLP classifier for scalable content moderation, served as a REST API | **95% accuracy, 93% F1-score** | [Live Demo](https://hate-speech-classification-project-nlp-24qa.onrender.com/) · [Code](https://github.com/TusharK93/Hate-Speech-Classification-Project---NLP-Natural-Language-Processing-) |
+| 💰 **Dynamic Pricing Optimizer** | Deep Q-Network agent (Stable-Baselines3, Gymnasium) that learns pricing strategies, served via FastAPI | **+2% revenue, +3% profit** vs. baseline (simulated) | [All Repos](https://github.com/TusharK93?tab=repositories) |
+| 📊 **Sales Forecasting System** | Demand forecasting with Prophet and ARIMA on 10,000+ sales records, deployed as a Flask app | **8.5% MAPE** on unseen data | [Code](https://github.com/TusharK93/Sales-Forecasting-System-using-Flask-and-Prophet---Time-Series-Project) |
+| 🧑‍💼 **AI-Powered Recruitment Agent** | LangChain + RAG assistant for resume screening and candidate-job matching | Streamlit app | [Code](https://github.com/TusharK93/AI-Powered-Recruitment-Agent---Generative-AI-Project) |
+| 🩺 **Kidney Disease Classification** | CNN and transfer learning on medical images, with Flask deployment | Deep learning / computer vision | [Code](https://github.com/TusharK93/Kidney-Disease-Classification-Project---Deep-Learning) |
+| 🎵 **Music Store SQL Analysis** | Advanced SQL queries on customer behavior and sales trends | SQL analytics | [Code](https://github.com/TusharK93/-Music-Store-Data-Analysis-project-using-SQL) |
 
 ---
 
 ## 💼 Experience
 
-**Data Analyst (Part-time)** | The WoodenPath (Wholesale Shop), Jaipur | Apr 2026 – Oct 2026
+**📈 Data Analyst (Part-time) · The WoodenPath, Jaipur** · Apr 2026 – Oct 2026
 - Analyzed sales, pricing and revenue data using Python, A/B testing and confidence intervals, contributing to a **5% increase in sales**
-- Validated findings with Statsmodels and SciPy to identify pricing and revenue opportunities
-- Shared data-driven insights with business stakeholders to support pricing and sales decisions
+- Validated findings with Statsmodels and SciPy, and shared insights with business stakeholders for pricing decisions
 
-**Data Analyst Intern** | NullClass Pvt. Ltd., Remote | Sep 2025 – Mar 2026
-- Boosted course sales by **2%** using custom data-tracking and visualization tools (Tableau)
-- Turned raw data into actionable insights, improving operational efficiency by **15%**
-- Held stakeholder meetings every 10 days to gather requirements and review progress
-
----
-
-## 🛠️ Skills
-
-**Languages & Databases**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-**Machine Learning & Deep Learning**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
-**Generative AI & Agentic AI**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
-![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-blueviolet?style=flat)
-![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-blueviolet?style=flat)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7A3E9D?style=flat)
-![LangSmith](https://img.shields.io/badge/LangSmith-Observability-green?style=flat)
-
-**Time Series, Statistics & Analytics**
-
-![Prophet](https://img.shields.io/badge/Prophet-Forecasting-blue?style=flat)
-![ARIMA](https://img.shields.io/badge/ARIMA%20%2F%20SARIMA-Time%20Series-blue?style=flat)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-A%2FB%20Testing-orange?style=flat)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-
-**BI & Visualization**
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-
-**Deployment, MLOps & Tools**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-
----
-
-## 🌱 Currently Learning
-
-- Databricks, Hive and Airflow for large-scale data pipelines
-- MLflow for model versioning and tracking
-- LLM observability and evaluation with LangSmith
-
----
-
-## 🎓 Education & Certifications
-
-- **Master of Computer Applications** (AI, ML, Data Science), Manipal University Jaipur | 2024 – 2026 | CGPA 8.0
-- **Bachelor of Computer Applications**, Maharaja Vinayak Global University, Jaipur | 2021 – 2024 | CGPA 7.0
-- Advanced AI and Machine Learning Techniques and Capstone, Microsoft
-- AI Capstone Project with Deep Learning, IBM
+**📊 Data Analyst Intern · NullClass Pvt. Ltd., Remote** · Sep 2025 – Mar 2026
+- Boosted course sales by **2%** using custom data-tracking and visualization tools
+- Improved operational efficiency by **15%** by turning raw data into actionable insights (Tableau)
+- Ran requirement and review meetings with stakeholders every 10 days
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TusharK93&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharK93&layout=compact&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TusharK93&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharK93&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharK93&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharK93&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 </p>
 
 ---
 
-## 📝 Writing
+## 🎓 Education & Certifications
 
-I write about machine learning, forecasting and generative AI on [Medium](https://medium.com/@tukumawat73).
-
----
-
-## 💬 Ask Me About
-
-**Python • SQL • Machine Learning • Time Series Forecasting • A/B Testing • Pricing Analytics • RAG • LangGraph • MCP • Agentic AI**
+- 🎓 **MCA (AI, ML, Data Science)**, Manipal University Jaipur · CGPA 8.0
+- 🎓 **BCA**, Maharaja Vinayak Global University, Jaipur · CGPA 7.0
+- 📜 Advanced AI and Machine Learning Techniques and Capstone, **Microsoft**
+- 📜 AI Capstone Project with Deep Learning, **IBM**
 
 ---
 
-## ⚡ Fun Fact
+## 📬 Let's Connect
 
-I taught a Deep Q-Network agent to set prices, and it beat my fixed-price baseline by 2% revenue and 3% profit. 📈🤖
+<p align="center">
+  <a href="https://www.linkedin.com/in/tushar-kumawat-ds"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tukumawat73@gmail.com"><img src="https://img.shields.io/badge/Gmail-tukumawat73@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://medium.com/@tukumawat73"><img src="https://img.shields.io/badge/Medium-Read%20my%20articles-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/tushar_chikoo12/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</p>
 
----
+> ⚡ **Fun fact:** I taught a Deep Q-Network agent to set prices, and it beat my fixed-price baseline by 2% revenue and 3% profit. 📈🤖
 
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/tushar-kumawat-ds" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://portfolio-project-wgoy.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://medium.com/@tukumawat73" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://www.leetcode.com/tushar_chikoo12" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="mailto:tukumawat73@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" alt="footer" />
 </p>

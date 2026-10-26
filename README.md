@@ -125,12 +125,12 @@ I apply data science to **money and decisions**: predicting sales, understanding
   <tr>
     <td>Trading research</td>
     <td>Backtesting, walk-forward validation, risk checks</td>
-    <td>Currently exploring (learning and research focus)</td>
+    <td>Currently Working on Trading based Algorithms</td>
   </tr>
   <tr>
     <td>Portfolio analytics</td>
     <td>Mean-variance optimization, Sharpe ratio, drawdown, VaR</td>
-    <td>Currently exploring (learning and research focus)</td>
+    <td>Currently Working on Portfolio Managment</td>
   </tr>
 </table>
 

@@ -299,6 +299,78 @@ These diagrams show architecture patterns I work with and explore. Individual pr
 
 ---
 
+<p align="center">
+  <img src="banner.svg" alt="Soft skills for data science" width="100%"/>
+</p>
+
+## 🧠 Soft Skills for Data Science
+
+Technical skills get you the interview, but soft skills decide how much impact you have. These are the four I focus on.
+
+![Analytical Thinking](https://img.shields.io/badge/Analytical_Thinking-4F46E5?style=for-the-badge)
+![Product Sense](https://img.shields.io/badge/Product_Sense-059669?style=for-the-badge)
+![Communication](https://img.shields.io/badge/Communication-D97706?style=for-the-badge)
+![Collaboration](https://img.shields.io/badge/Collaboration-DB2777?style=for-the-badge)
+
+### 1. 🔍 Analytical Thinking
+<img src="analytical-thinking.svg" width="260" align="right" alt="Analytical Thinking"/>
+
+Breaking a vague problem into smaller, testable questions.
+- Define the problem before touching the data
+- Form hypotheses, then validate them with evidence
+- Question assumptions, spot bias, and separate correlation from causation
+- Sanity-check results ("Does this number even make sense?")
+
+<br clear="right"/>
+
+### 2. 🎯 Product Sense
+<img src="product-sense.svg" width="260" align="right" alt="Product Sense"/>
+
+Understanding the *why* behind the analysis, not just the *how*.
+- Connect models and metrics to real user and business goals
+- Choose metrics that matter (e.g. retention over vanity clicks)
+- Prioritize work by impact versus effort
+- Ask "What decision will this analysis change?"
+
+<br clear="right"/>
+
+### 3. 🗣️ Communication & Data Storytelling
+<img src="communication.svg" width="260" align="right" alt="Communication"/>
+
+Turning findings into something non-technical people can act on.
+- Lead with the insight, not the methodology
+- Use clear visuals and simple language
+- Tailor the message to the audience (executives, engineers, designers)
+- Be honest about uncertainty and limitations
+
+<br clear="right"/>
+
+### 4. 🤝 Collaboration
+<img src="collaboration.svg" width="260" align="right" alt="Collaboration"/>
+
+Data science is a team sport.
+- Work closely with product, engineering, and business teams
+- Give and receive feedback constructively
+- Document your work so others can reproduce it
+- Share credit and knowledge openly
+
+<br clear="right"/>
+
+---
+
+## 🖼️ Soft Skills at a Glance
+
+<p align="center">
+  <img src="analytical-thinking.svg" width="23%" alt="Analytical Thinking"/>
+  <img src="product-sense.svg" width="23%" alt="Product Sense"/>
+  <img src="communication.svg" width="23%" alt="Communication"/>
+  <img src="collaboration.svg" width="23%" alt="Collaboration"/>
+</p>
+
+> 💡 *"The best data scientists aren't just great with data. They're great at helping people make better decisions."*
+
+---
+
 ## 💼 Professional Experience
 
 ### 📊 Data Analyst (Part-time) — The WoodenPath

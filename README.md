@@ -428,7 +428,7 @@ SQL analytics project exploring customer behavior, sales trends, and business in
 
 ## 📈 Project Results & Analytics (Animated)
 
-# All charts are display the Working of Skills used in Past Jobs by me .
+All charts are display the some skills that used in Past Jobs and Project by me .  
 
 ### 2D Animated Charts
 

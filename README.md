@@ -305,7 +305,7 @@ These diagrams show architecture patterns I work with and explore. Individual pr
 
 ## 🧠 Soft Skills for Data Science
 
-Technical skills get you the interview, but soft skills decide how much impact you have. These are the four #I focus on#.
+Technical skills get you the interview, but soft skills decide how much impact you have. These are the four ## I focus on ##.
 
 ![Analytical Thinking](https://img.shields.io/badge/Analytical_Thinking-4F46E5?style=for-the-badge)
 ![Product Sense](https://img.shields.io/badge/Product_Sense-059669?style=for-the-badge)
@@ -357,15 +357,6 @@ Data science is a team sport.
 <br clear="right"/>
 
 ---
-
-## 🖼️ Soft Skills at a Glance
-
-<p align="center">
-  <img src="analytical-thinking.svg" width="23%" alt="Analytical Thinking"/>
-  <img src="product-sense.svg" width="23%" alt="Product Sense"/>
-  <img src="communication.svg" width="23%" alt="Communication"/>
-  <img src="collaboration.svg" width="23%" alt="Collaboration"/>
-</p>
 
 > 💡 *"The best data scientists aren't just great with data. They're great at helping people make better decisions."*
 

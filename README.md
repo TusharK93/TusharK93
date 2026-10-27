@@ -469,7 +469,7 @@ All charts are display the some skills that used in Past Jobs and Project by me 
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TusharK93&theme=tokyonight" width="100%" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TusharK93&theme=tokyonight&utcOffset=5.5" width="49%" alt="Productive time"/>
 
 <br/><br/>
 

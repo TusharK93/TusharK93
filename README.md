@@ -498,7 +498,7 @@ I combine analytical thinking, statistical validation, model evaluation, and bus
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 I have currently learned -:
 
 - 🤖 Advanced RAG retrieval and evaluation techniques
 - 🔗 Agentic AI orchestration, MCP, memory, and human-in-the-loop workflows
@@ -507,6 +507,9 @@ I combine analytical thinking, statistical validation, model evaluation, and bus
 - ⚙️ Reproducible ML pipelines, CI/CD, and model monitoring
 - ☁️ Cloud deployment and scalable data applications
 - 📊 Experiment design, forecasting, and business analytics
+  
+## 🌱 Currently Exploring -:
+
 - 📈 Trading research: backtesting, walk-forward validation, and risk management
 - 🧺 Portfolio analytics: mean-variance optimization, Sharpe ratio, drawdown, and VaR
 

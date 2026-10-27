@@ -358,7 +358,7 @@ Predictive maintenance project that identifies potential APS failures from vehic
 ML and analytics app for identifying potentially fraudulent transactions, with a dashboard for insights and model outputs.
 - [Live Demo](https://ai-powered-credit-card-fraud-detection-m6g8.onrender.com/) · [Repository](https://github.com/TusharK93/AI-Powered-Credit-Card-Fraud-Detection-Dashboard)
    <p align="center">
-  <img src="credit card.jpg" alt="Financial RAG Assistant end-to-end pipeline" width="100%">
+  <img src="credit card.png" alt="Financial RAG Assistant end-to-end pipeline" width="100%">
 </p>
 
 

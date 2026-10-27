@@ -158,7 +158,7 @@ I apply data science to **money and decisions**: predicting sales, understanding
 
 ### 🎬 Concept Demos (Animated)
 
-These four demos explain core ideas. They use **synthetic (made-up) data** so you can see how the methods work. They are **not real results**.
+These four demos explain core ideas. They use **synthetic (made-up) data** so you can see how the methods works**.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/TusharK93/TusharK93/main/demo-forecast.gif" width="85%" alt="Animated sales forecast concept with trend, seasonality and uncertainty band"/>

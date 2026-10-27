@@ -469,7 +469,7 @@ All charts are display the some skills that used in Past Jobs and Project by me 
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharK93&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" alt="Activity graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TusharK93&theme=tokyonight" width="100%" alt="Stats"/>
 
 <br/><br/>
 

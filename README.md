@@ -327,6 +327,10 @@ Financial document Q&A that combines retrieval and LLM generation to give answer
 - Source-aware answers, with tracing and evaluation where configured
 - **Stack:** Python, Streamlit, Sentence Transformers, BM25, Groq/Gemini, LangChain, LlamaIndex
 - [Live Demo](https://financial-rag-projectgit-mehrafevet4cygzuycio2f.streamlit.app/) · [Repository](https://github.com/TusharK93/Financial-Rag-Project)
+<p align="center">
+  <img src="finance_rag_assistant_pipeline.gif" alt="Financial RAG Assistant end-to-end pipeline" width="100%">
+</p>
+
 
 ### ✈️ Agentic AI Travel Planner & Flight Booker
 Multi-agent travel planning app that coordinates tools to build plans around user requirements and budgets.
@@ -334,6 +338,10 @@ Multi-agent travel planning app that coordinates tools to build plans around use
 - Human-in-the-loop approval and PostgreSQL memory where configured
 - Reported evaluation: **90% task success** across 100 test requests
 - [Live Demo](https://agentic-ai-project-flight-booker-2-8v2r.onrender.com/) · [Repository](https://github.com/TusharK93/Agentic-AI-Project---Flight-Booker)
+ <p align="center">
+  <img src="agentic.jpg" alt="Financial RAG Assistant end-to-end pipeline" width="100%">
+</p>
+
 
 ### 🚛 Air Pressure System (APS) Failure Detection
 Predictive maintenance project that identifies potential APS failures from vehicle sensor data.
@@ -341,45 +349,76 @@ Predictive maintenance project that identifies potential APS failures from vehic
 - Reported results: **98% accuracy, 97% F1-score**
 - **Stack:** Python, scikit-learn, XGBoost, FastAPI, MongoDB, MLflow
 - [Live Demo](https://air-pressure-system-aps-project-using-0efs.onrender.com/) · [Repository](https://github.com/TusharK93/-Air-Pressure-System-APS-Project-Using-Machine-Learning)
+   <p align="center">
+  <img src="aps_failure_prediction_pipeline.gif" alt="Financial RAG Assistant end-to-end pipeline" width="100%">
+</p>
+
 
 ### 💳 AI-Powered Credit Card Fraud Detection Dashboard
 ML and analytics app for identifying potentially fraudulent transactions, with a dashboard for insights and model outputs.
 - [Live Demo](https://ai-powered-credit-card-fraud-detection-m6g8.onrender.com/) · [Repository](https://github.com/TusharK93/AI-Powered-Credit-Card-Fraud-Detection-Dashboard)
+   <p align="center">
+  <img src="credit card.jpg" alt="Financial RAG Assistant end-to-end pipeline" width="100%">
+</p>
+
 
 ### 📉 Sales Forecasting System
 Time-series forecasting app for analyzing historical sales and supporting demand planning.
 - Prophet and ARIMA workflows; trend, seasonality, ACF/PACF analysis
 - Reported evaluation: **8.5% MAPE on unseen data**
 - [Live Demo](https://sales-forecasting-system-using-flask-and-8qbi.onrender.com/) · [Repository](https://github.com/TusharK93/Sales-Forecasting-System-using-Flask-and-Prophet---Time-Series-Project)
+   <p align="center">
+  <img src="sales.jpg" alt="Financial RAG Assistant end-to-end pipeline" width="100%">
+</p>
+
 
 ### 🛑 Hate Speech Detection
 NLP classifier that predicts whether text is hate speech.
 - LSTM-based text classification with embeddings
 - Reported results: **95% accuracy, 93% F1-score**
 - [Live Demo](https://hate-speech-classification-project-nlp-24qa.onrender.com/) · [Repository](https://github.com/TusharK93/Hate-Speech-Classification-Project---NLP-Natural-Language-Processing-)
+   <p align="center">
+  <img src="hs.jpg" alt="Financial RAG Assistant end-to-end pipeline" width="100%">
+</p>
+
 
 ### 🩺 Kidney Disease Classification
 CNN-based deep learning project for medical image classification.
 - Image preprocessing, training, and evaluation
 - Reported results: **94% accuracy, 92% F1-score**
 - [Live Demo](https://kidney-disease-classification-project-viaa.onrender.com/) · [Repository](https://github.com/TusharK93/Kidney-Disease-Classification-Project---Deep-Learning)
+ <sub>Educational project;  clinically validated diagnostic tool.</sub>
+ <p align="center">
+  <img src="kidney disease.jpg" alt="Financial RAG Assistant end-to-end pipeline" width="100%">
+</p>
 
-<sub>Educational project; not a clinically validated diagnostic tool.</sub>
 
 ### 💰 Dynamic Pricing Optimizer
 Reinforcement learning project using a Deep Q-Network agent to explore pricing decisions under changing demand.
 - Reported simulation results: **2% higher revenue and 3% higher profit** vs. baseline
 - **Stack:** Python, Gymnasium, Stable-Baselines3
 - [Repositories](https://github.com/TusharK93?tab=repositories)
+   <p align="center">
+  <img src="rf.jpg" alt="Financial RAG Assistant end-to-end pipeline" width="100%">
+</p>
+
 
 ### 🧑‍💼 AI-Powered Recruitment Agent
 GenAI app that assists with resume screening and candidate–job matching.
 - **Stack:** Python, LangChain, RAG, Streamlit
 - [Repository](https://github.com/TusharK93/AI-Powered-Recruitment-Agent---Generative-AI-Project)
+   <p align="center">
+  <img src="genai.jpg" alt="Financial RAG Assistant end-to-end pipeline" width="100%">
+</p>
+
 
 ### 🎵 Music Store Data Analysis
 SQL analytics project exploring customer behavior, sales trends, and business insights.
 - [Repository](https://github.com/TusharK93/-Music-Store-Data-Analysis-project-using-SQL)
+     <p align="center">
+  <img src="sql.jpg" alt="Financial RAG Assistant end-to-end pipeline" width="100%">
+</p>
+
 
 <div align="center">
   <a href="https://github.com/TusharK93?tab=repositories"><img src="https://img.shields.io/badge/Explore-All%20Projects-181717?style=for-the-badge&logo=github" alt="All projects"/></a>

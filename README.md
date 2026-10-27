@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an **Applied Data Scientist and Data Analyst** who turns raw data into actionable business insights and builds intelligent applications that solve real-world problems.
+I'm an **Applied Data Scientist , Data Analyst & AI ML Engineer** who turns raw data into actionable business insights and builds intelligent applications that solve real-world problems.
 
 - 📊 Analyze business performance, revenue, pricing, and customer trends using Python, SQL, statistics, and visualization.
 - 🧠 Build machine learning and deep learning solutions for classification, forecasting, anomaly detection, and predictive analytics.

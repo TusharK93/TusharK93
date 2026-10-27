@@ -305,7 +305,7 @@ These diagrams show architecture patterns I work with and explore. Individual pr
 
 ## 🧠 Soft Skills for Data Science
 
-Technical skills get you the interview, but soft skills decide how much impact you have. These are the four ## I focus on ##.
+Technical skills get you the interview, but soft skills decide how much impact you have. These are the four ## I focus on.
 
 ![Analytical Thinking](https://img.shields.io/badge/Analytical_Thinking-4F46E5?style=for-the-badge)
 ![Product Sense](https://img.shields.io/badge/Product_Sense-059669?style=for-the-badge)
